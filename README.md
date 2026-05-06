@@ -104,5 +104,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Created with ❤️ by the Nexus Team
+  Created with ❤️ by the ME
 </p>
