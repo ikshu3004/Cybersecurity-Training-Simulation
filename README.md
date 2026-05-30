@@ -6,7 +6,7 @@
 
 ## 🚀 Experience the Frontlines
 
-Nexus isn't just a dashboard; it's a full-blown OS simulation. Experience the chaos of a breach through a responsive, interactive interface that mimics real-world enterprise systems.
+It isn't just a dashboard; it's a full-blown OS simulation. Experience the chaos of a breach through a responsive, interactive interface that mimics real-world enterprise systems.
 
 ### ✨ Key Features
 
