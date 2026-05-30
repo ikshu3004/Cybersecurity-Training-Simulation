@@ -1,8 +1,6 @@
-# 🛡️ Codename: Nexus
+![Cybersecurity Training Simulation](hero_banner.png)
 
-![Codename: Nexus Hero Banner](nexus_hero_banner.png)
-
-**Codename: Nexus** is a state-of-the-art, immersive **Cybersecurity Training Simulation** designed to put incident responders and security analysts in the heat of a simulated attack. Built with a modern Windows-inspired desktop environment, it provides a realistic playground for identifying, analyzing, and mitigating sophisticated cyber threats.
+**Cybersecurity Training Simulation** is designed to put incident responders and security analysts in the heat of a simulated attack. Built with a modern Windows-inspired desktop environment, it provides a realistic playground for identifying, analyzing, and mitigating sophisticated cyber threats.
 
 ---
 
@@ -41,14 +39,14 @@ Built with cutting-edge web technologies for performance and visual fidelity:
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (v18+ recommended)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/)
 
 ### Installation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/codename-nexus.git
-   cd codename-nexus
+   git clone https://github.com/ikshu3004/Cybersecurity-Training-Simulation.git
+   cd [dir]
    ```
 
 2. **Install dependencies**:
@@ -74,35 +72,23 @@ Built with cutting-edge web technologies for performance and visual fidelity:
   <table>
     <tr>
       <td width="50%">
-        <img src="https://via.placeholder.com/400x225?text=Windows+Desktop+Environment" alt="Desktop" />
+        <img src="readme_images/desktop.png" alt="Desktop" />
         <p align="center"><i>Interactive Desktop Environment</i></p>
       </td>
       <td width="50%">
-        <img src="https://via.placeholder.com/400x225?text=Ransomware+Simulation" alt="Ransomware" />
+        <img src="readme_images/attack.png" alt="Network Attack" />
         <p align="center"><i>Real-time Attack Response</i></p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <img src="https://via.placeholder.com/400x225?text=Incident+Dashboard" alt="Dashboard" />
+        <img src="readme_images/IRC.png" alt="Dashboard" />
         <p align="center"><i>IR Command Center</i></p>
       </td>
       <td width="50%">
-        <img src="https://via.placeholder.com/400x225?text=Kali+Forensics+Mode" alt="Forensics" />
+        <img src="readme_images/kali.png" alt="Forensics" />
         <p align="center"><i>Forensic Investigation</i></p>
       </td>
     </tr>
   </table>
 </div>
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">
-  Created with ❤️ by the ME
-</p>
